@@ -1,5 +1,5 @@
 import google.generativeai as palm
-API_KEY = "AIzaSyAiBOiKqa2ahKi1Zb7O0zkl3g-c8MZ-s1E"
+API_KEY = "---"
 palm.configure(api_key=API_KEY)
 
 model_name="models/text-bison-001"
